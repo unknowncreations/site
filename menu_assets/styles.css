@@ -14,3 +14,7 @@
 #cssmenu ul ul a {font-weight: normal; text-shadow: 0 1px 0 #fff; }
 #cssmenu ul:after {content: '.'; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;}
 * html #cssmenu  ul {height: 1%;}
+
+#cssmenu {
+  margin:5px 0;
+}
